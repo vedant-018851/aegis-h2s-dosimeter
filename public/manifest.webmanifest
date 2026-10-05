@@ -1,0 +1,25 @@
+{
+  "name": "Aegis H2S Exposure Reader",
+  "short_name": "Aegis H2S",
+  "description": "Aegis H2S — prototype reader app for a passive colorimetric H2S exposure-dosimeter wristband. SIH 2026, Team Kaizen.",
+  "start_url": "/aegis-h2s-dosimeter/",
+  "scope": "/aegis-h2s-dosimeter/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/aegis-h2s-dosimeter/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/aegis-h2s-dosimeter/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
